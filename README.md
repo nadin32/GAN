@@ -1,4 +1,4 @@
-# ml
+# GAN 
 GAN artifacts
 THese are hmework assignments for  GAN  specialization at coursera :
 Generative Adversarial Networks (GANs) Specialization
